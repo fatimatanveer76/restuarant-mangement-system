@@ -24,4 +24,3 @@ Uses ANSI color codes for colored console output
 Provides a numbered menu system for all operations
 Clears screen between operations for clean display
 Saves all data when exiting the program
-The program initializes with a default menu if no saved data exists, and persists all changes to files for data continuity between runs. It's designed as a complete backend system for restaurant operations.
